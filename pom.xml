@@ -14,6 +14,9 @@
 		<module>feign-consumer</module>
 		<module>config-server</module>
 		<module>config-client</module>
+		<module>trace-1</module>
+		<module>trace-2</module>
+		<module>zipkin</module>
 	</modules>
 
 	<parent>
@@ -35,7 +38,7 @@
 			<dependency>
 				<groupId>org.springframework.cloud</groupId>
 				<artifactId>spring-cloud-dependencies</artifactId>
-				<version>Edgware.RELEASE</version>
+				<version>Dalston.SR4</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
