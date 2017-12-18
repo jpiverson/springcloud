@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: config-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: penn
+Implementation-Vendor-Id: com.penn
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/springcloud/
+ config-server/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

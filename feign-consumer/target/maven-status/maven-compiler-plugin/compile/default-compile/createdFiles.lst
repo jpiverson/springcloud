@@ -1,0 +1,5 @@
+com/penn/feignconsumer/web/controller/ConsumerController.class
+com/penn/feignconsumer/FeignConsumerApplication.class
+com/penn/feignconsumer/service/HelloServiceFallback.class
+com/penn/feignconsumer/pojo/User.class
+com/penn/feignconsumer/service/HelloService.class

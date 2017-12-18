@@ -1,0 +1,5 @@
+/Users/penn/eclipse/workspace/springcloud/feign-consumer/src/main/java/com/penn/feignconsumer/service/HelloService.java
+/Users/penn/eclipse/workspace/springcloud/feign-consumer/src/main/java/com/penn/feignconsumer/web/controller/ConsumerController.java
+/Users/penn/eclipse/workspace/springcloud/feign-consumer/src/main/java/com/penn/feignconsumer/service/HelloServiceFallback.java
+/Users/penn/eclipse/workspace/springcloud/feign-consumer/src/main/java/com/penn/feignconsumer/pojo/User.java
+/Users/penn/eclipse/workspace/springcloud/feign-consumer/src/main/java/com/penn/feignconsumer/FeignConsumerApplication.java
