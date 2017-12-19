@@ -11,5 +11,6 @@
 - hystrix-dashboard 监控中心
 - turbin 信息聚合
 - trace-1 & trace-2 服务调用方和提供方（为服务跟踪演示使用）
-- zipkin-server 服务跟踪收集和展示
+- zipkin 服务跟踪收集和展示
+- zuul-server 网关服务
 - 需要安装rabbitmq & docker

@@ -17,6 +17,7 @@
 		<module>trace-1</module>
 		<module>trace-2</module>
 		<module>zipkin</module>
+		<module>zuul-server</module>
 	</modules>
 
 	<parent>
